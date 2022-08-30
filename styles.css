@@ -182,3 +182,34 @@ html{
     background-position: right;
     transition: 1s;
 }
+@media screen and (max-width: 667px) {
+    h1{
+        font-size: 34px;
+    }
+    h2{
+        font-size: 34px;
+    }
+    .circle{
+        position:absolute ;
+        left: 90%;
+        height: 200px;
+        width: 200px;
+    }
+    .person{
+        position: absolute;
+        left: 110%;
+        height:200px;
+        
+    }
+    .nav-item{
+        justify-content: center;
+        align-items: center;
+    }
+    .section3{
+       width: 300px;
+       top: 205%;
+    }
+    .progress{
+     width: 220%;; 
+    }
+}
