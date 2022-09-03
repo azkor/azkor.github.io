@@ -73,19 +73,7 @@ section button{
    box-shadow:  22px 22px 44px #a3a3a3,
              -22px -22px 44px #ffffff;;
 }
-.bar{
-    width: 50%;
-    background-color:#ff4500;
-    padding: 0,01rem 16px;
-}
-.bar2{
-   width: 35%;
-   background-color: #ff4500;
-}
-.progress{
-    background-color: rgba(128, 128, 128, 0.336);
-    width: 350%;
-}
+
 .section2{
     
     padding: 13px;
@@ -103,9 +91,7 @@ section button{
 html{
     scroll-behavior: smooth;
 }
-.skill{
-    font-weight: 200;
-}
+
 .aboutme{
     font-size: 34px;
     
@@ -128,11 +114,7 @@ html{
     left:0; 
     right:0; 
 }
-.skills{
-    position: absolute;
-    top:-17%;
-    left: 30%;
-}   
+  
 .nav-item a{
     display: inline-block;
   position: relative;
@@ -182,6 +164,82 @@ html{
     background-position: right;
     transition: 1s;
 }
+.code{
+    width: 360px;
+    height: 360px;
+    background: #80808056;
+    box-shadow:  19px 19px 38px #b8b8b8,
+             -19px -19px 38px #ffffff;
+   position: absolute;
+   top: 103%;
+   left: -10%;
+}
+.design{
+    width: 360px;
+    height: 360px;
+    background: #80808056;
+    box-shadow:  19px 19px 38px #b8b8b8,
+             -19px -19px 38px #ffffff;
+    position: absolute;
+    left: 35%;
+    top: 103%;
+}
+.hobbies{
+    width: 360px;
+    height: 360px;
+    background: #80808056;
+    box-shadow:  19px 19px 38px #b8b8b8,
+             -19px -19px 38px #ffffff;
+    position: absolute;
+    left: 80%;
+    top:103%;
+    
+}
+h5{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+}
+.code2{
+   position: absolute;
+   top: 32%;
+   left: 32%;
+   height: 130px;
+   width: 130px;
+   
+}
+.minitext{
+    position: absolute;
+    top:65%;
+    font-size: 20px;
+}
+.code3{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 32%;
+    left: 32%;
+}
+.minitext2{
+    position: absolute;
+    top:65%;
+    font-size: 20px;
+}
+.code4{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 32%;
+    left: 32%;
+}
+.minitext3{
+    position: absolute;
+    top:65%;
+    font-size: 20px;
+}
+
+   
+ 
 @media screen and (max-width: 667px) {
     h1{
         font-size: 34px;
@@ -209,7 +267,6 @@ html{
        width: 300px;
        top: 205%;
     }
-    .progress{
-     width: 220%;; 
-    }
+     
+    
 }
