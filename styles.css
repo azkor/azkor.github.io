@@ -255,6 +255,22 @@ h5{
     top:65%;
     font-size: 20px;
 }
+.code:hover{
+    animation: bounce 1s;
+}
+.design:hover{
+    animation: bounce 1s;
+}
+.hobbies:hover{
+    animation: bounce 1s;
+}
+@keyframes bounce{ 30% {
+    -webkit-transform: translateY(-20px) ;
+    transform:  translateY(-20px);
+}
+    
+}
+  
 
    
   
