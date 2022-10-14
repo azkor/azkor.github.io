@@ -272,13 +272,8 @@ h5{
     transform:  translateY(-20px);
 }
     
-}
-iframe{
-    position: absolute;
-    top: 1530px;
-    left: 164px;
-   
-}
+
+
 body{
     overflow-x: hidden;
 } 
@@ -314,7 +309,7 @@ ol{
 }   
 
     
-}
+
 .dis{
     color: #000000;
     
