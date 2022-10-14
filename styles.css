@@ -230,6 +230,7 @@ h5{
     position: absolute;
     top:65%;
     font-size: 20px;
+        font-family: 'Russo One', sans-serif;
 }
 .code3{
     height: 130px;
@@ -241,7 +242,8 @@ h5{
 .minitext2{
     position: absolute;
     top:65%;
-    font-size: 20px;
+    font-size: 20px
+            font-family: 'Russo One', sans-serif;
 }
 .code4{
     height: 130px;
@@ -254,6 +256,7 @@ h5{
     position: absolute;
     top:65%;
     font-size: 20px;
+        font-family: 'Russo One', sans-serif;
 }
 .code:hover{
     animation: bounce 1s;
@@ -308,8 +311,7 @@ ol:first-child{
 }
 ol{
     font-family: 'Russo One', sans-serif;
-  
-    
+}   
 
     
 }
