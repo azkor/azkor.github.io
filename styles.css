@@ -278,6 +278,51 @@ iframe{
 }
 body{
     overflow-x: hidden;
+} 
+body{
+    overflow-x: hidden;
+    margin: 0;
+}
+footer{
+    margin: 0;
+    padding: 2%;
+    position: relative;
+    top: 107rem;
+    background-color:  #80808056;
+}
+.copy{
+    display: grid;
+    justify-content: center;
+    font-weight: 600;
+    font-family: 'Russo One', sans-serif;
+    
+    font-size: large;
+}
+ol:first-child{
+    font-size: 24px;
+    font-family: 'Russo One', sans-serif;
+    text-decoration: none !important;
+    color: #000000;
+  
+    
+}
+ol{
+    font-family: 'Russo One', sans-serif;
+  
+    
+
+    
+}
+.dis{
+    color: #000000;
+    
+}
+.twi{
+    color:black ;
+    
+}
+a{
+    text-decoration: none;
 }
    
   
