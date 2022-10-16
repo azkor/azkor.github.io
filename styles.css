@@ -214,7 +214,7 @@ html{
     
 }
 h5{
-    font-family: 'Roboto Mono', monospace;
+   font-family: 'Russo One', sans-serif;
     font-size: 20px;
     text-align: center;
 }
@@ -275,9 +275,7 @@ h5{
     
 
 
-body{
-    overflow-x: hidden;
-} 
+
 body{
     overflow-x: hidden;
     margin: 0;
@@ -307,10 +305,11 @@ ol:first-child{
 }
 ol{
     font-family: 'Russo One', sans-serif;
-}   
-
+  
     
 
+    
+}
 .dis{
     color: #000000;
     
@@ -322,7 +321,8 @@ ol{
 a{
     text-decoration: none;
 }
-   
+
+
   
 
    
